@@ -1,4 +1,4 @@
-### Hi there, I'm Francisco Javier Serrano- aka [realfranser] [gitHub]👋
+### Hi there, I'm Francisco Javier Serrano - aka [realfranser][gitHub] 👋
 
 
 ## I'm a computer engineering student, tennis teacher and enjoy developing open source projects!!
