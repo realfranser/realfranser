@@ -8,7 +8,7 @@
 - 🔭 I work with TensorFlow and Selenium     
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Near Future Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar and play sports
+- ⚡ Fun fact: I love to play guitar and sports
 
 ### Spotify Playing 🎧
 
