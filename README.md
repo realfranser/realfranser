@@ -39,7 +39,6 @@
 <br />
 <br />
 
----
 
 ### Check out my personal website!
 [FRANCISCO SERRANO'S PORTFOLIO](https://www.realfranser.com)
