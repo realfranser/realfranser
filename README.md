@@ -41,10 +41,10 @@
 
 
 ### Check out my personal website!
-[FRANCISCO SERRANO'S PORTFOLIO](https://www.realfranser.com)
-<img align="left" alt="portfolio" src="./portfolio_screenshot.png" />
+[<img align="left" alt="portfolio" src="./portfolio_screenshot.png" />][portfolio]
 
 
 [instagram]: https://instagram.com/realfranser
 [linkedin]: https://www.linkedin.com/in/fran-serrano/
 [gitHub]: https://github.com/realfranser
+[portfolio]: https://www.realfranser.com
