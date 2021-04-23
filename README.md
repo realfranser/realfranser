@@ -40,7 +40,7 @@
 <br />
 
 
-### Check out my personal website!
+### Check out my portfolio!
 [<img align="left" alt="portfolio" src="./portfolio_screenshot.png" />][portfolio]
 
 
