@@ -42,8 +42,9 @@
 
 ### Check out my personal website!
 [FRANCISCO SERRANO'S PORTFOLIO](https://www.realfranser.com)
+<img align="left" alt="portfolio" src="./portfolio_screenshot.png" />
 
 
 [instagram]: https://instagram.com/realfranser
-[linkedin]: https://www.linkedin.com/in/francisco-javier-serrano-arrese-7705081ba/
+[linkedin]: https://www.linkedin.com/in/fran-serrano/
 [gitHub]: https://github.com/realfranser
