@@ -39,6 +39,10 @@
 <br />
 <br />
 
+<a href="#" onclick="return false;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realfranser&theme=tokyonight&count_private=true&hide=jupyter%20notebook,asp,css&langs_count=10" />
+</a>
+
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=realfranser&show_icons=true" />
 </div>
