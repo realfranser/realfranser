@@ -39,10 +39,6 @@
 <br />
 <br />
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=realfranser&show_icons=true" />
-</div>
-
 ### Check out my portfolio!
 [<img align="left" alt="portfolio" src="./portfolio_screenshot.png" />][portfolio]
 
