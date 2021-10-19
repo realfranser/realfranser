@@ -48,7 +48,7 @@ Funfact: I like the digital nomad movement
 
 #### Cloud and DevOps
 <img align="left" alt="AWS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="Google Cloud" width="32px" src"https://cloudfresh.com/wp-content/uploads/2020/04/GCPbig.png" />
+<img align="left" alt="Google Cloud" width="32px" src"https://avatars.githubusercontent.com/u/2810941?s=200&v=4" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Jenkins" width="32px" src="https://w7.pngwing.com/pngs/122/347/png-transparent-jenkins-continuous-integration-continuous-delivery-ci-cd-computer-software-others-hand-logo-cartoon.png" />
