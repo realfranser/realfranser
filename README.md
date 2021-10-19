@@ -3,12 +3,7 @@
 
 ## I'm a computer engineering student, SDE Intern at Twilio Inc. and enjoy developing open source projects!!
 
-- 📕  I´m currently studying computer engineering!
-- 🌱 I program in Python, Java and C 
-- 🔭 I work with TensorFlow and Selenium     
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Near Future Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar and sports
+Funfact: I like the digital nomad movement
 
 ### Connect with me:
 
@@ -31,7 +26,7 @@
 #### Scripting
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Bash" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="Bash" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 
 #### Web Dev
