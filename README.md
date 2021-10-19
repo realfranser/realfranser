@@ -23,9 +23,7 @@ Funfact: I like the digital nomad movement
 
 #### OS:
 <img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Mint" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mint/mint.png" />
-
-<a href="https://linuxmint.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux-mint/linux-mint.svg" alt="Mint" width="32" height="32"/> </a>
+<img align="left" alt="Mint" width="32px" src="https://github.com/linuxmint/brand-logo/blob/master/badge.svg" />
 
 </br>
 
@@ -54,6 +52,7 @@ Funfact: I like the digital nomad movement
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Jenkins" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/jenkins/jenkins.png" />
+<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />
 
 </br>
 
