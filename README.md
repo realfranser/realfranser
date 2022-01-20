@@ -1,4 +1,4 @@
-### Hi there, I'm Francisco Javier Serrano - aka [realfranser][gitHub] 👋
+### Hi there, I'm Francisco Javier Serrano - aka [realfranser][gitHub]
 
 
 ## I'm a computer engineering student, SDE Intern at Twilio Inc. and enjoy developing open source projects!!
